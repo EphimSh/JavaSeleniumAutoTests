@@ -1,0 +1,17 @@
+
+- username: crazyUser
+  password: wrongPassword
+  shouldSuccess: false
+
+- username: Н@вый
+  password: a524cc4315
+  shouldSuccess: false
+
+- username: namenamenamenamenamename
+  password: 2a374e8c1c
+  shouldSuccess: false
+
+
+- username: Li
+  password: 8640d08847
+  shouldSuccess: false
